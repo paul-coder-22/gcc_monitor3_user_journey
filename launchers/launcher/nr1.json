@@ -1,7 +1,7 @@
 {
   "schemaType": "LAUNCHER",
   "id": "launcher",
-  "displayName": "Launcher",
+  "displayName": "GCC Monitor 3 - User Journeys",
   "description": "Describe me",
-  "rootNerdletId": "cd50c1bb-7208-471c-a3c2-9b14357e8720.home"
+  "rootNerdletId": "19ba796e-491d-4433-bc06-1db1eb88c242.home"
 }
